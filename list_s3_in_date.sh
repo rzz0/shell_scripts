@@ -2,6 +2,7 @@
 
 #auth:rzz0
 # SCRIPT: return all files that were last modified today
+# Requires the AWS CLI
 # Instruction:
 # make the script executable: chmod +x list_s3_in_date.sh
 # run the script in linux terminal and add the parameters:
